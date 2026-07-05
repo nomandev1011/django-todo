@@ -1,0 +1,12 @@
+
+replicaCount: 1
+image:
+  repository: nomandev1011/django-todo
+  
+  pullPolicy: IfNotPresent
+  
+  tag: "latest"
+
+service:
+  type: NodePort
+  port: 8001
