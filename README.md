@@ -186,11 +186,11 @@ terraform destroy -auto-approve
 ### Live Todo App
 ![Todo App](screenshots/app.jpeg)
 
-### EC2-instance
-![CI/CD Pipeline](screenshots/ec2-instance.png)
+### EC2-instance Running
+![CI/CD Pipeline](screenshots/ec2-instance.jpeg)
 
-### Kubernetes Pods Running
-![Pods](screenshots/prometheus.png)
+### Prometheus Monitoring Dashboard
+![Pods](screenshots/prometheus.jpeg)
 
 ### Grafana Monitoring Dashboard
 ![Grafana](screenshots/grafana.jpeg)
